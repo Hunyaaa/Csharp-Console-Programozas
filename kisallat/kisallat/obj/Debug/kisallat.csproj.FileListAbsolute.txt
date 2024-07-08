@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\kisallat\kisallat\obj\Debug\kisallat.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\kisallat\kisallat\obj\Debug\kisallat.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\kisallat\kisallat\bin\Debug\kisallat.exe.config
+C:\Users\user\Desktop\kisallat\kisallat\bin\Debug\kisallat.exe
+C:\Users\user\Desktop\kisallat\kisallat\bin\Debug\kisallat.pdb
+C:\Users\user\Desktop\kisallat\kisallat\obj\Debug\kisallat.exe
+C:\Users\user\Desktop\kisallat\kisallat\obj\Debug\kisallat.pdb
